@@ -5,13 +5,12 @@
     <title>현재시간</title>
 </head>
 <body>
-    <!--주석처리-->
+    <!--이건 html 주석처리-->
+    <%--이건 jsp버젼 주석처리--%>
     <%
         //스크립트 릿 영역 
         String bookTitle = "JSP 프로그래밍";
     %>
-    <%--date는 일반부 jsp버젼 주석처리--%>
-    <!--표현식 toString()-->
     <b><%= bookTitle %></b>을 공부합니다 <br>
     지금시간 : <%= new java.util.Date()%>
    
