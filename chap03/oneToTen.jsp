@@ -9,6 +9,9 @@
 
         for(int i=1;i<=10;i++){
             sum += i;
+    %>
+    i값은 : <%=i%><br>
+    <%
         }
     %>
     <!--표현식 toString() Expression-->
