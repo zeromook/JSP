@@ -1,5 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8" %>
 <%! 
+    String name = "hello";
     public int add(int a,int b){
         int c = a+b;
         return c;
@@ -24,7 +25,7 @@
 
     <%= value %> + <%= value2%> = <%= addResult%><br>
     <%= value %> - <%= value2%> = <%= substractResult%>
-    
-  
+
+
 </body>
 </html>

@@ -5,6 +5,8 @@
 </head>
 <body>
     <form action="/chap03/viewParameter.jsp" method="post">
+        <!--method를 get으로 하면 똑같이 되지만 url형식으로 보내지기에-->
+        <!--값이 변경가능하다 그래서 get보단 post가 좋다.....-->
         이름 : <input type="text" name="name" size="10"><br>
         주소 : <input type="text" name="address" size="30"><br>
         좋아하는 동물 : 
