@@ -14,7 +14,9 @@
             <input type="checkbox" name="pet" value="cat">고양이
             <input type="checkbox" name="pet" value="pig">돼지
         <br>
-        <input type="submit" value="전송">
+        <input type="submit" value="전송ss">
+        
     </form>
+    
 </body>
 </html>

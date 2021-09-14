@@ -5,7 +5,7 @@
 %>
 <html>
 <head>
-    <title>현재시간 임포트로 불러오기</title>
+    <title>현재시간 임포트로 불러오기</ title>
 </head>
 <body>
     <%-- Date는 일반부 --%>

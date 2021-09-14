@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8"%>
-<%@ page import="java.util.Enumeration" %>
-<%@ page import="java.util.Map" %>
+<%@ page import="java.util.*" %>
+
 <%
     request.setCharacterEncoding("utf-8");
 %>
