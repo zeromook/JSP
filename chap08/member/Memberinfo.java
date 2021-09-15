@@ -8,7 +8,6 @@ public class Memberinfo {
 	private Date registerDate;
 	private String email;
 	
-	
 	public String getId() {
 		return id;
 	}
