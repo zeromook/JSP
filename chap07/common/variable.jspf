@@ -1,0 +1,7 @@
+<%@ page import="java.util.Date"%>
+<%
+    Date CURRENT_TIME = new Date();//공통변수나 상수값들의 변수명은 대문자로
+//이렇게 안하고 java.util.Date = new java.util.Date()이렇게 해줘도 됨 이렇게 하면 
+//위에 임포트를 안해도 됨
+
+%>
