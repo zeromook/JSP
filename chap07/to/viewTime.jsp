@@ -12,5 +12,6 @@
     <%= cal.get(Calendar.HOUR) %>시
     <%= cal.get(Calendar.MINUTE) %>분
     <%= cal.get(Calendar.SECOND) %>초
+    <%=cal%>
 </body>
 </html>
