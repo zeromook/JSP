@@ -10,6 +10,6 @@
 <title>Cookies 사용 예</title>
 </head>
 <body>
-    Cookies를 사용하여 쿠키를 생성성서어성서아서아서아ㅓ사어ㅐㅇ생새애성샤ㅓ야서ㅐ어새어새어새어새ㅓㅇ
+    Cookies를 사용하여 쿠키를 생성
 </body>
 </html>
