@@ -8,7 +8,7 @@
     <title>EL함수 호출</title>
 </head>
 <body>
-    오늘은 <b>${elfunc:formatNumber(price,'#,##0')}</b> 입니다.<br><br><br>
+    가격은 <b>${elfunc:formatNumber(price,'#,##0')}</b> 입니다.<br><br><br>
     
     <br>
     <font size="15" color="red">
@@ -21,4 +21,4 @@
 </body>
 </html>
 
-    &nbsp;
+   
